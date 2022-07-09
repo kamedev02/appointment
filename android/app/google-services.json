@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "951896187403",
+    "project_id": "appointment-ceecc",
+    "storage_bucket": "appointment-ceecc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951896187403:android:88588bdfe9639176851d0e",
+        "android_client_info": {
+          "package_name": "com.kamedev.appointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951896187403-4ci2uohql5rnejskhovdsifslo9cbdfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kamedev.appointment",
+            "certificate_hash": "9c917e1c097dd2aeb8a1ad9fc3fa4bec9d3d252a"
+          }
+        },
+        {
+          "client_id": "951896187403-e9o18p6rrv33t9q7kabi25d91dgafd97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kamedev.appointment",
+            "certificate_hash": "52002df879c16a85b1f43b64c9ccb378a706a88d"
+          }
+        },
+        {
+          "client_id": "951896187403-pbpdpokm6ifparcj21oron8mt95h8gdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlXYrxnYivGLLfk3cYvym4FxUpNLj_GqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951896187403-pbpdpokm6ifparcj21oron8mt95h8gdj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "951896187403-3mltgcis2sgadhm6s3iafse6m0bol6l9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appointment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
